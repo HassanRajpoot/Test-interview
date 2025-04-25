@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Virtualenv
+venv/
+env/
+ENV/
+.venv/
+
+# Migrations (optional – only if you don't want to track them initially)
+# **Comment this out if you're ready to commit migrations**
+# */migrations/
+# !*/migrations/__init__.py
+
+# OS-specific
+.DS_Store
+Thumbs.db
